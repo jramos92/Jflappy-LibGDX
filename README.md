@@ -2,4 +2,4 @@ Jflappy-LibGDX
 ==============
 Juego libgdx
 
-Puedes acceder a las _demos_ de algunos de los proyectos [aqui](https://github.com/jramos92/Jflappy-LibGDX/releases/)
+Puedes acceder a las _demos_ del juego [aqui](https://github.com/jramos92/Jflappy-LibGDX/releases/)
