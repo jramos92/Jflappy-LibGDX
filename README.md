@@ -8,6 +8,6 @@
 4. **- Pantalla de inicio**
 5. **- Pantalla de pausa**
 6. **- Pantalla de Game Over**
-7. **- Pantalla de Ganar**
+7. **- Pantalla de Win**
 
 Puedes acceder a las _demo_ del juego [aqui](https://github.com/jramos92/Jflappy-LibGDX/releases/)
